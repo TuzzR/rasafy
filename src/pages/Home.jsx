@@ -4,6 +4,7 @@ import Blog from "../components/Blog";
 import Footer from "../components/Footer";
 import Nav from "../components/Nav";
 import Stats from "../components/Stats";
+import CustomWidget from "../components/Widget";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <Hero />
       <Stats />
       <Blog />
+      <CustomWidget />
       <Footer />
     </div>
   );
