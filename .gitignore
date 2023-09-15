@@ -14,6 +14,7 @@ dist-ssr
 
 # Editor directories and files
 venv
+.rasa
 .vscode/*
 !.vscode/extensions.json
 .idea
